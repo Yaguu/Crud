@@ -4,6 +4,16 @@
       "name": "Maria 2",
       "email": "mariaemail.com",
       "id": 1
+    },
+    {
+      "name": "Matheus",
+      "email": "matheus@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Luiza Silva",
+      "email": "luizasilva@hotmail.com.br",
+      "id": 3
     }
   ]
 }
